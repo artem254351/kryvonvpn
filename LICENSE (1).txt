@@ -1,9 +1,9 @@
 PROPRIETARY LICENSE
 
-Date: 2026-06-05
+Date: 2026-11-11
 Author: artem254351
 
-Program: Cat Care Game (CatCareGame.exe)
+Program: KRYVON VPN (app-kryvonvpn.apk)
 
 1. ALL RIGHTS RESERVED. All rights to the source code, documentation, and related materials belong to artem254351. No rights are granted by default.
 

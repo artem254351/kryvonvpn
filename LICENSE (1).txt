@@ -1,0 +1,26 @@
+PROPRIETARY LICENSE
+
+Date: 2026-06-05
+Author: artem254351
+
+Program: Cat Care Game (CatCareGame.exe)
+
+1. ALL RIGHTS RESERVED. All rights to the source code, documentation, and related materials belong to artem254351. No rights are granted by default.
+
+2. ALLOWED:
+   * Personal use of the program in its original, unmodified form.
+   * Running the program on your own hardware.
+
+3. PROHIBITED WITHOUT WRITTEN PERMISSION FROM THE AUTHOR:
+   * Modifying, decompiling, or disassembling the code.
+   * Creating derivative works (forks, adaptations, remakes).
+   * Distributing the source code, binary files, or their parts.
+   * Use the program in commercial products or services.
+   * Publicly demonstrate the code (on GitHub, forums, etc.).
+
+4. RESPONSIBILITY. Violation of the license terms is a violation of copyright and entails legal consequences in accordance with the law.
+
+5. DISCLAIMER OF WARRANTIES. The program is provided "AS IS" without any warranties. The author is not responsible for any damage resulting from the use of the program.
+
+6. CONTACTS FOR LICENSE REQUESTS:
+   Email: artem1234kuzmin@yandex.ru
